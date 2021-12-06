@@ -1,1 +1,5 @@
-
+{ "Summary":"Edit: the button Order by rondom don't work",
+ "Steps":[ { "1":"Open the app"}, { "2":"Add the pictures in the application"}, { "3":"Open menu Edit and tap Order by random"}],
+ "Result": "There is no re-sorting of pictures on the main window",
+ "Expected result":"According to the requirements, when you click on the button, the pictures are re-sorted on the main window"
+}
